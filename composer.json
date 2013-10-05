@@ -1,0 +1,13 @@
+{
+    "name": "crisu83/yii-rights",
+    "description": "Yii Rights module",
+    "authors": [
+        {
+            "name": "Tobias Munk",
+            "email": "schmunk@usrbin.de"
+        }
+    ],
+    "require": {
+
+    }
+}
