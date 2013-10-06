@@ -1,7 +1,7 @@
-<?php $this->widget('zii.widgets.CMenu', array(
+<?php $this->widget('TbMenu', array(
 	'firstItemCssClass'=>'first',
 	'lastItemCssClass'=>'last',
-	'htmlOptions'=>array('class'=>'actions'),
+	'htmlOptions'=>array('class'=>'nav nav-tabs'),
 	'items'=>array(
 		array(
 			'label'=>Rights::t('core', 'Assignments'),
